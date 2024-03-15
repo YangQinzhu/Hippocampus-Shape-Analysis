@@ -32,6 +32,7 @@ Two mesh results before and after registration are shown. The yellow one is the 
 
 <!-- | ![before_reg](./Figures/Before-registration.png) | ![after_reg](./Figures/After-registration.png) | -->
 <figure>
+<img src="./Figures/fix-label.png" width=300/>
 <img src="./Figures/Before-registration.png" width=300/>
 <img src="./Figures/After-registration.png" width=300/>
 <img src="./Figures/colorful-results.png" width=300/>
